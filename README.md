@@ -31,5 +31,5 @@ exploit dev          ████░░░░░░░░░  35%
 
 github stats (since you're looking)
 
-https://github-readme-stats.vercel.app/api?username=art1fi&show_icons=true&theme=dark&hide=contribs,prs&count_private=true&hide_border=true&bg_color=0d1117&icon_color=2d5a3a&title_color=2d5a3a
-https://github-readme-stats.vercel.app/api/top-langs/?username=art1fi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2d5a3a
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![contrib](https://github-readme-stats.vercel.app/api?username=art1fi&show_icons=true&theme=dark&hide=contribs,prs&count_private=true&hide_border=true&bg_color=0d1117&icon_color=2d5a3a&title_color=2d5a3a)
+
