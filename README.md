@@ -21,7 +21,7 @@ what i pretend to know
 ```bash
 c++                  ███████████░░░  70%
 social skills        ██████████████  90%   # talk too much, ask questions later
-python               ███░░░░░░░░░░░  20%   # we don't talk about python
+python               ███░░░░░░░░░░░  20%  
 bash                 ███████░░░░░░░  55%
 networking           ░░░░░░░░░░░░░░   0%  
 exploit dev          ████░░░░░░░░░  35%
