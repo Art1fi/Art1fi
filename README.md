@@ -1,6 +1,6 @@
 # `$ whoami`
 
-**cybersecurity student** | sometimes CTF player | professional larper
+**cybersecurity student** | sometimes CTF player
 
 
 ---
