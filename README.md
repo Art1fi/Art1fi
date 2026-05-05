@@ -25,10 +25,3 @@ python               ███░░░░░░░░░░░
 bash                 ███████░░░░░░░  
 networking           ░░░░░░░░░░░░░░  
 ```
-
----
-
-github stats (since you're looking)
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![contrib](https://github-readme-stats.vercel.app/api?username=art1fi&show_icons=true&theme=dark&hide=contribs,prs&count_private=true&hide_border=true&bg_color=0d1117&icon_color=2d5a3a&title_color=2d5a3a)
-
