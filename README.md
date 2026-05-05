@@ -19,12 +19,11 @@ $ ./status.sh
 what i pretend to know
 
 ```bash
-c++                  ███████████░░░  70%
-social skills        ██████████████  90%   # talk too much, ask questions later
-python               ███░░░░░░░░░░░  20%  
-bash                 ███████░░░░░░░  55%
-networking           ░░░░░░░░░░░░░░   0%  
-exploit dev          ████░░░░░░░░░  35%
+c++                  ███████████░░░
+social skills        ██████████████  # talk too much, ask questions later
+python               ███░░░░░░░░░░░   
+bash                 ███████░░░░░░░  
+networking           ░░░░░░░░░░░░░░  
 ```
 
 ---
